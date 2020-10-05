@@ -1,2 +1,2 @@
 ### My first Git Repo
-> Created My First Github Repo
+> Created My First GitHub repository
